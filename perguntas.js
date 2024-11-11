@@ -1,35 +1,35 @@
 criaCartao{
     'Aleatório',
     'Quem roubou mais que o Lula?',
-    'Ninguém',
+    'Ninguém'
 }
 
 criaCartao{
     'Geografia',
     'Qual é a capital da França?',
-    'Paris',
+    'Paris'
 }
 
 criaCartao{
     'Geografia',
     'Qual é a capital da Alemanha?',
-    'Berlim',
+    'Berlim'
 }
 
 criaCartao{
     'Geografia',
     'Qual é a capital da França?',
-    'Paris',
+    'Paris'
 }
 
 criaCartao{
     'Aleatório',
     'Quem matou Michael Jackson?',
-    'As drogas',
+    'As drogas'
 }
 
 criaCartao{
     'Aleatório',
     'Quem matou o Pelé?',
-    'As drogas',
+    'As drogas'
 }
